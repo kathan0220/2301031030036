@@ -1,0 +1,971 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 178rem;
+}.cars-F5Z {
+  width: 100%;
+  height: 125rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.cars-F5Z .latestcar-zJ3 {
+  width: 177.9rem;
+  height: 89.4264rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.cars-F5Z .latestcar-zJ3 .rectangle-9-ijq {
+  width: 177.9rem;
+  height: 59.8808rem;
+  position: absolute;
+  left: 0;
+  top: 21.3456rem;
+  background-color: #e8e8e8;
+}
+.cars-F5Z .latestcar-zJ3 .lorem-ipsum-dolor-sit-amet-consectetur-adipis-cing-elit-ornare-vestibulum-diam-sit-adipis-cing-elit-adipis-cing-elit-TBd {
+  width: 69.1rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 9.2656rem;
+  top: 31.5692rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.cars-F5Z .latestcar-zJ3 .our-latest-cars-CHd {
+  width: 37.9rem;
+  height: 19.2rem;
+  position: absolute;
+  left: 9.2656rem;
+  top: 26.3205rem;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.cars-F5Z .latestcar-zJ3 .group-1-hkB {
+  width: 50.8683rem;
+  height: 41.3337rem;
+  position: absolute;
+  left: 9.2656rem;
+  top: 39.6019rem;
+}
+.cars-F5Z .latestcar-zJ3 .group-1-hkB .rectangle-10-1ks {
+  width: 50.8683rem;
+  height: 34.7783rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #555353;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-10-bg-J3H.png');
+}
+.cars-F5Z .latestcar-zJ3 .group-1-hkB .rectangle-13-YF1 {
+  width: 50.8683rem;
+  height: 7.5764rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  backdrop-filter: blur(1.55rem);
+  background-color: rgba(0, 0, 0, 0.4699999988);
+}
+.cars-F5Z .latestcar-zJ3 .group-1-hkB .luxgrious-auto-mobile-rFh {
+  width: 27.7rem;
+  height: 10.8rem;
+  position: absolute;
+  left: 1.5751rem;
+  top: 0.9584rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.cars-F5Z .latestcar-zJ3 .group-1-hkB .hot-sells-ZA7 {
+  width: 10.6rem;
+  height: 10.8rem;
+  position: absolute;
+  left: 6.764rem;
+  top: 30.5337rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #ff7a00;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.cars-F5Z .latestcar-zJ3 .group-1-hkB .lorem-ipsum-dolor-sit-amet-consectetur-adipis-cing-elit-ornare-vestibulum-diam-58T {
+  width: 42.3rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 1.5751rem;
+  top: 3.7425rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.cars-F5Z .latestcar-zJ3 .group-1-hkB .rectangle-17-XFM {
+  width: 18.3459rem;
+  height: 0.2738rem;
+  position: absolute;
+  left: 25.8511rem;
+  top: 31.6747rem;
+  background-color: #d9d9d9;
+}
+.cars-F5Z .latestcar-zJ3 .group-3-f6f {
+  width: 50.8683rem;
+  height: 41.3337rem;
+  position: absolute;
+  left: 117.7661rem;
+  top: 39.6019rem;
+}
+.cars-F5Z .latestcar-zJ3 .group-3-f6f .rectangle-12-AJK {
+  width: 50.8683rem;
+  height: 34.7783rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #555353;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-12-bg-nvT.png');
+}
+.cars-F5Z .latestcar-zJ3 .group-3-f6f .rectangle-15-h3M {
+  width: 50.8683rem;
+  height: 7.5764rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  backdrop-filter: blur(1.55rem);
+  background-color: rgba(0, 0, 0, 0.4699999988);
+}
+.cars-F5Z .latestcar-zJ3 .group-3-f6f .hot-sells-Rk3 {
+  width: 10.6rem;
+  height: 10.8rem;
+  position: absolute;
+  left: 6.764rem;
+  top: 30.5337rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #ff7a00;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.cars-F5Z .latestcar-zJ3 .group-3-f6f .luxgrious-auto-mobile-Vzo {
+  width: 27.7rem;
+  height: 10.8rem;
+  position: absolute;
+  left: 1.5751rem;
+  top: 0.9584rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.cars-F5Z .latestcar-zJ3 .group-3-f6f .lorem-ipsum-dolor-sit-amet-consectetur-adipis-cing-elit-ornare-vestibulum-diam-p1V {
+  width: 42.3rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 1.5751rem;
+  top: 3.7425rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.cars-F5Z .latestcar-zJ3 .group-3-f6f .rectangle-19-VtK {
+  width: 18.3459rem;
+  height: 0.2738rem;
+  position: absolute;
+  left: 25.8511rem;
+  top: 31.6747rem;
+  background-color: #d9d9d9;
+}
+.cars-F5Z .latestcar-zJ3 .group-2-qSP {
+  width: 51.2389rem;
+  height: 41.3337rem;
+  position: absolute;
+  left: 63.1915rem;
+  top: 39.6019rem;
+}
+.cars-F5Z .latestcar-zJ3 .group-2-qSP .rectangle-11-wkK {
+  width: 50.9609rem;
+  height: 34.7783rem;
+  position: absolute;
+  left: 0.2779rem;
+  top: 0;
+  background-color: #555353;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-11-bg-eXZ.png');
+}
+.cars-F5Z .latestcar-zJ3 .group-2-qSP .rectangle-14-fwD {
+  width: 50.8683rem;
+  height: 7.5764rem;
+  position: absolute;
+  left: 0.2779rem;
+  top: 0;
+  backdrop-filter: blur(1.55rem);
+  background-color: rgba(0, 0, 0, 0.4699999988);
+}
+.cars-F5Z .latestcar-zJ3 .group-2-qSP .luxgrious-auto-mobile-B8s {
+  width: 27.7rem;
+  height: 10.8rem;
+  position: absolute;
+  left: 1.8531rem;
+  top: 0.9584rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.cars-F5Z .latestcar-zJ3 .group-2-qSP .lorem-ipsum-dolor-sit-amet-consectetur-adipis-cing-elit-ornare-vestibulum-diam-toy {
+  width: 42.3rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 1.8531rem;
+  top: 3.7425rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.cars-F5Z .latestcar-zJ3 .group-2-qSP .rectangle-16-Nz3 {
+  width: 51.2389rem;
+  height: 27.2019rem;
+  position: absolute;
+  left: 0;
+  top: 7.5764rem;
+  background: linear-gradient(360deg, rgba(0, 0, 0, 0.3300000131) 0%, rgba(0, 0, 0, 0.3300000131) 76.74%);
+}
+.cars-F5Z .latestcar-zJ3 .group-2-qSP .rectangle-18-HLK {
+  width: 18.3459rem;
+  height: 0.2738rem;
+  position: absolute;
+  left: 25.2024rem;
+  top: 31.6747rem;
+  background-color: #d9d9d9;
+}
+.cars-F5Z .latestcar-zJ3 .group-2-qSP .hot-sells-Pu9 {
+  width: 10.6rem;
+  height: 10.8rem;
+  position: absolute;
+  left: 6.1153rem;
+  top: 30.5337rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #ff7a00;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.cars-F5Z .latestcar-zJ3 .slder-3io {
+  width: 5.5594rem;
+  height: 44.8353rem;
+  position: absolute;
+  left: 163.075rem;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.cars-F5Z .latestcar-zJ3 .slder-3io .vector-aCw {
+  margin: 0rem 0rem 41.454rem 0.187rem;
+  width: 1.6687rem;
+  height: 0.6884rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cars-F5Z .latestcar-zJ3 .slder-3io .rectangle-24-J8w {
+  width: 100%;
+  height: 2.6928rem;
+  background-color: #ff7a00;
+  border-radius: 0.7rem;
+  flex-shrink: 0;
+}
+.cars-F5Z .latestcar-zJ3 .slider-36X {
+  width: 5.5594rem;
+  height: 44.8273rem;
+  position: absolute;
+  left: 153.8094rem;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.cars-F5Z .latestcar-zJ3 .slider-36X .vector-Awq {
+  margin: 0rem 0rem 41.446rem 0.176rem;
+  width: 1.6687rem;
+  height: 0.6884rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cars-F5Z .latestcar-zJ3 .slider-36X .rectangle-23-srF {
+  width: 100%;
+  height: 2.6928rem;
+  border: solid 0.3rem #ff7a00;
+  box-sizing: border-box;
+  border-radius: 0.7rem;
+  flex-shrink: 0;
+}
+.cars-F5Z .futer-1Bm {
+  width: 182.3262rem;
+  height: 145.5181rem;
+  position: absolute;
+  left: 0;
+  top: 9.9rem;
+}
+.cars-F5Z .futer-1Bm .rectangle-31-JwZ {
+  width: 178.0242rem;
+  height: 24.7674rem;
+  position: absolute;
+  left: 0;
+  top: 90.3326rem;
+  background-color: #000000;
+}
+.cars-F5Z .futer-1Bm .photo-inc-2019-we-love-our-users-rTH {
+  width: 34.5rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 9.2721rem;
+  top: 108.9611rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: -0.036rem;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Poppins, 'Source Sans Pro';
+}
+.cars-F5Z .futer-1Bm .follow-us--Jq5 {
+  width: 11.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 127.3324rem;
+  top: 108.9611rem;
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: -0.036rem;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cars-F5Z .futer-1Bm .community-oG3 {
+  width: 14.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 110.6161rem;
+  top: 95.907rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1;
+  letter-spacing: -0.036rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cars-F5Z .futer-1Bm .featured-artists-the-portal-live-events-Hwu {
+  width: 15.2rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 110.6161rem;
+  top: 98.7295rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2;
+  letter-spacing: -0.03rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.cars-F5Z .futer-1Bm .company-Y79 {
+  width: 12.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 131.1074rem;
+  top: 95.907rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1;
+  letter-spacing: -0.036rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cars-F5Z .futer-1Bm .about-us-contact-us-history-STR {
+  width: 10.7rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 131.1074rem;
+  top: 98.7295rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2;
+  letter-spacing: -0.03rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.cars-F5Z .futer-1Bm .logo-8r3 {
+  width: 20.4334rem;
+  height: 101.201rem;
+  position: absolute;
+  left: 9.2771rem;
+  top: 0;
+}
+.cars-F5Z .futer-1Bm .logo-8r3 .auto-group-gyr7-e3h {
+  margin-bottom: 94.3004rem;
+  width: 4.6869rem;
+  height: 2.1006rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.cars-F5Z .futer-1Bm .logo-8r3 .ktmotors-NkP {
+  margin-left: 6.5334rem;
+  max-width: 13.9rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.cars-F5Z .futer-1Bm .button-hnf {
+  width: 13.088rem;
+  height: 4rem;
+  position: absolute;
+  left: 169.2382rem;
+  top: 135.9181rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.0225rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #ff7a00;
+  border-radius: 0.6rem;
+}
+.cars-F5Z .futer-1Bm .button-JnT {
+  width: 13.088rem;
+  height: 4rem;
+  position: absolute;
+  left: 169.2382rem;
+  top: 141.5181rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.0225rem;
+  color: #ff7a00;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #ff7a00;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+}
+.cars-F5Z .futer-1Bm .rectangle-9HH {
+  width: 159.48rem;
+  height: 0.2117rem;
+  position: absolute;
+  left: 9.2721rem;
+  top: 105.9269rem;
+  background-color: #ff7a00;
+}
+.cars-F5Z .futer-1Bm .group-7-syy {
+  width: 4.349rem;
+  height: 102.7388rem;
+  position: absolute;
+  left: 144.8301rem;
+  top: 8.8331rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.cars-F5Z .futer-1Bm .group-7-syy .vector-cRm {
+  margin: 0rem 0rem 97.015rem 0.081rem;
+  width: 4.2676rem;
+  height: 2.4776rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cars-F5Z .futer-1Bm .group-7-syy .ellipse-4-vBZ {
+  margin-right: 0.0838rem;
+  width: 4.2652rem;
+  height: 3.2459rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cars-F5Z .futer-1Bm .group-9-pXq {
+  width: 4.3563rem;
+  height: 102.7388rem;
+  position: absolute;
+  left: 157.9964rem;
+  top: 8.8331rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.cars-F5Z .futer-1Bm .group-9-pXq .vector-kwH {
+  margin: 0rem 0rem 97.015rem 0.089rem;
+  width: 4.2676rem;
+  height: 2.4776rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cars-F5Z .futer-1Bm .group-9-pXq .ellipse-2-T51 {
+  margin-right: 0.0912rem;
+  width: 4.2652rem;
+  height: 3.2459rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cars-F5Z .futer-1Bm .group-8-nsy {
+  width: 4.3527rem;
+  height: 102.7388rem;
+  position: absolute;
+  left: 151.4132rem;
+  top: 8.8331rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.cars-F5Z .futer-1Bm .group-8-nsy .vector-8KZ {
+  margin: 0rem 0rem 97.015rem 0.085rem;
+  width: 4.2676rem;
+  height: 2.4776rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cars-F5Z .futer-1Bm .group-8-nsy .ellipse-3-E7h {
+  margin-right: 0.0876rem;
+  width: 4.2652rem;
+  height: 3.2459rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cars-F5Z .futer-1Bm .group-10-An3 {
+  width: 4.2652rem;
+  height: 3.2459rem;
+  position: absolute;
+  left: 164.5797rem;
+  top: 108.326rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.cars-F5Z .futer-1Bm .futer-sgT {
+  width: 182.3262rem;
+  height: 145.5181rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.cars-F5Z .futer-1Bm .futer-sgT .auto-group-4opd-E1D {
+  width: 178.0242rem;
+  height: 115.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.cars-F5Z .futer-1Bm .futer-sgT .auto-group-4opd-E1D .rectangle-31-Lpw {
+  width: 178.0242rem;
+  height: 24.7674rem;
+  position: absolute;
+  left: 0;
+  top: 90.3326rem;
+  background-color: #000000;
+}
+.cars-F5Z .futer-1Bm .futer-sgT .auto-group-4opd-E1D .photo-inc-2019-we-love-our-users-t5m {
+  width: 34.5rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 9.2721rem;
+  top: 108.9611rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: -0.036rem;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Poppins, 'Source Sans Pro';
+}
+.cars-F5Z .futer-1Bm .futer-sgT .auto-group-4opd-E1D .follow-us--x5d {
+  width: 11.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 127.3324rem;
+  top: 108.9611rem;
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: -0.036rem;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cars-F5Z .futer-1Bm .futer-sgT .auto-group-4opd-E1D .community-RV1 {
+  width: 14.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 110.6161rem;
+  top: 95.907rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1;
+  letter-spacing: -0.036rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cars-F5Z .futer-1Bm .futer-sgT .auto-group-4opd-E1D .featured-artists-the-portal-live-events-Xnw {
+  width: 15.2rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 110.6161rem;
+  top: 98.7295rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2;
+  letter-spacing: -0.03rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.cars-F5Z .futer-1Bm .futer-sgT .auto-group-4opd-E1D .company-dLB {
+  width: 12.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 131.1074rem;
+  top: 95.907rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1;
+  letter-spacing: -0.036rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cars-F5Z .futer-1Bm .futer-sgT .auto-group-4opd-E1D .about-us-contact-us-history-v4P {
+  width: 10.7rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 131.1074rem;
+  top: 98.7295rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2;
+  letter-spacing: -0.03rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.cars-F5Z .futer-1Bm .futer-sgT .auto-group-4opd-E1D .logo-RG3 {
+  width: 22.1229rem;
+  height: 101.2rem;
+  position: absolute;
+  left: 9.2771rem;
+  top: 0;
+}
+.cars-F5Z .futer-1Bm .futer-sgT .auto-group-4opd-E1D .logo-RG3 .auto-group-x1ep-ZNF {
+  margin-bottom: 94.2994rem;
+  width: 4.6869rem;
+  height: 2.1006rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.cars-F5Z .futer-1Bm .futer-sgT .auto-group-4opd-E1D .logo-RG3 .ktmotors-gxf {
+  margin-left: 6.5229rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cars-F5Z .futer-1Bm .futer-sgT .auto-group-4opd-E1D .rectangle-1zw {
+  width: 159.48rem;
+  height: 0.2117rem;
+  position: absolute;
+  left: 9.2721rem;
+  top: 105.9269rem;
+  background-color: #ff7a00;
+}
+.cars-F5Z .futer-1Bm .futer-sgT .auto-group-4opd-E1D .group-7-9rF {
+  width: 4.349rem;
+  height: 102.7388rem;
+  position: absolute;
+  left: 144.8301rem;
+  top: 8.8331rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.cars-F5Z .futer-1Bm .futer-sgT .auto-group-4opd-E1D .group-7-9rF .vector-SaT {
+  margin: 0rem 0rem 97.015rem 0.081rem;
+  width: 4.2676rem;
+  height: 2.4776rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cars-F5Z .futer-1Bm .futer-sgT .auto-group-4opd-E1D .group-7-9rF .ellipse-4-msd {
+  margin-right: 0.0838rem;
+  width: 4.2652rem;
+  height: 3.2459rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cars-F5Z .futer-1Bm .futer-sgT .auto-group-4opd-E1D .group-9-ewR {
+  width: 4.3563rem;
+  height: 102.7388rem;
+  position: absolute;
+  left: 157.9964rem;
+  top: 8.8331rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.cars-F5Z .futer-1Bm .futer-sgT .auto-group-4opd-E1D .group-9-ewR .vector-PPD {
+  margin: 0rem 0rem 97.015rem 0.089rem;
+  width: 4.2676rem;
+  height: 2.4776rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cars-F5Z .futer-1Bm .futer-sgT .auto-group-4opd-E1D .group-9-ewR .ellipse-2-Vh9 {
+  margin-right: 0.0912rem;
+  width: 4.2652rem;
+  height: 3.2459rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cars-F5Z .futer-1Bm .futer-sgT .auto-group-4opd-E1D .group-8-SMV {
+  width: 4.3527rem;
+  height: 102.7388rem;
+  position: absolute;
+  left: 151.4132rem;
+  top: 8.8331rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.cars-F5Z .futer-1Bm .futer-sgT .auto-group-4opd-E1D .group-8-SMV .vector-Zwu {
+  margin: 0rem 0rem 97.015rem 0.085rem;
+  width: 4.2676rem;
+  height: 2.4776rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cars-F5Z .futer-1Bm .futer-sgT .auto-group-4opd-E1D .group-8-SMV .ellipse-3-6B9 {
+  margin-right: 0.0876rem;
+  width: 4.2652rem;
+  height: 3.2459rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cars-F5Z .futer-1Bm .futer-sgT .button-c9V {
+  width: 13.088rem;
+  height: 4rem;
+  position: absolute;
+  left: 169.2382rem;
+  top: 135.9181rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.0225rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #ff7a00;
+  border-radius: 0.6rem;
+}
+.cars-F5Z .futer-1Bm .futer-sgT .button-qnw {
+  width: 13.088rem;
+  height: 4rem;
+  position: absolute;
+  left: 169.2382rem;
+  top: 141.5181rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.0225rem;
+  color: #ff7a00;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #ff7a00;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+}
+.cars-F5Z .futer-1Bm .futer-sgT .group-10-fGB {
+  width: 4.2652rem;
+  height: 3.2459rem;
+  position: absolute;
+  left: 164.5797rem;
+  top: 108.326rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.cars-F5Z .navber-BVR {
+  box-sizing: border-box;
+  padding: 2.023rem 9.266rem 1.381rem 5.261rem;
+  width: 177.9rem;
+  height: 13.7679rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.6rem 0.9rem rgba(0, 0, 0, 0.0900000036);
+  background-color: #ffffff;
+}
+.cars-F5Z .navber-BVR .logo-H2f {
+  margin: 0rem 41.522rem 3.754rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cars-F5Z .navber-BVR .logo-H2f .auto-group-rtpd-1zF {
+  margin-bottom: 0.7364rem;
+  width: 3.5457rem;
+  height: 1.0727rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cars-F5Z .navber-BVR .logo-H2f .ktmotors-5z7 {
+  margin-left: 14.0581rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cars-F5Z .navber-BVR .frame-1-ofD {
+  margin: 3.163rem 14.129rem 3.6rem 0rem;
+  height: calc(100% - 6.763rem);
+  display: flex;
+  column-gap: 7.5rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cars-F5Z .navber-BVR .frame-1-ofD .home-vE3 {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cars-F5Z .navber-BVR .frame-1-ofD .abut-us-rtP {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cars-F5Z .navber-BVR .frame-1-ofD .cars-zzb {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cars-F5Z .navber-BVR .frame-1-ofD .services-wew {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cars-F5Z .navber-BVR .btn-s2o {
+  margin-top: 1.8428rem;
+  width: 23.1641rem;
+  height: 8.5202rem;
+  position: relative;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.cars-F5Z .navber-BVR .btn-s2o .rectangle-1-Cqm {
+  width: 23.1641rem;
+  height: 6.0352rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ff7a00;
+  border-radius: 1rem;
+}
+.cars-F5Z .navber-BVR .btn-s2o .oder-now-YPq {
+  width: 5.9rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 6.1153rem;
+  top: 1.3202rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}

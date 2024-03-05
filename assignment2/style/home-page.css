@@ -1,0 +1,1038 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.home-page-W6K {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.home-page-W6K .navber-pMu {
+  box-sizing: border-box;
+  padding: 4.1rem 10rem;
+  width: 100%;
+  height: 14.6rem;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.6rem 0.9rem rgba(0, 0, 0, 0.0900000036);
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.home-page-W6K .navber-pMu .logo-Mef {
+  margin: 0rem 49.848rem 0.778rem 0rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-page-W6K .navber-pMu .logo-Mef .auto-group-amkv-CQP {
+  margin-right: 2rem;
+  width: 5.0518rem;
+  height: 2.9769rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-W6K .navber-pMu .logo-Mef .ktmotors-G9M {
+  margin-top: 0.7782rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-W6K .navber-pMu .frame-1-k4X {
+  margin: 1.4rem 19.6rem 1.4rem 0rem;
+  height: calc(100% - 2.8rem);
+  display: flex;
+  column-gap: 7.5rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-W6K .navber-pMu .frame-1-k4X .home-zjZ {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-W6K .navber-pMu .frame-1-k4X .abut-us-w91 {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-W6K .navber-pMu .frame-1-k4X .cars-fKu {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-W6K .navber-pMu .frame-1-k4X .services-Zw5 {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-W6K .navber-pMu .btn-uzw {
+  width: 25rem;
+  height: 100%;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff7a00;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.home-page-W6K .hero-utT {
+  box-sizing: border-box;
+  padding: 18.5rem 10rem 14.8rem 10rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-color: #d9d9d9;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-2-bg.png');
+  flex-shrink: 0;
+}
+.home-page-W6K .hero-utT .purchase-your-perfect-car-2y5 {
+  margin-bottom: 13.5rem;
+  max-width: 64rem;
+  font-size: 7.5rem;
+  font-weight: 600;
+  line-height: 1.3333333333;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-page-W6K .hero-utT .purchase-your-perfect-car-2y5 .purchase-your-perfect-car-2y5-sub-0 {
+}
+.home-page-W6K .hero-utT .purchase-your-perfect-car-2y5 .purchase-your-perfect-car-2y5-sub-1 {
+  font-size: 7.5rem;
+  font-weight: 600;
+  line-height: 1.3333333333;
+  text-transform: uppercase;
+  color: #ff7a00;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.home-page-W6K .hero-utT .purchase-your-perfect-car-2y5 .purchase-your-perfect-car-2y5-sub-2 {
+}
+.home-page-W6K .hero-utT .over-1000-new-cars-available-here-1c3 {
+  margin-bottom: 1.5rem;
+  font-size: 4.2rem;
+  font-weight: 500;
+  line-height: 1.2380952381;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-W6K .hero-utT .lorem-ipsum-dolor-sit-amet-consectetur-adipiscin-elitvit-ae-pellentesque-sed-etiam-tortor-fwV {
+  margin-bottom: 15.9rem;
+  max-width: 68.8rem;
+  font-size: 2.7rem;
+  font-weight: 500;
+  line-height: 1.3333333333;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-page-W6K .hero-utT .auto-group-naab-xfh {
+  margin-right: 94.4rem;
+  width: calc(100% - 94.4rem);
+  height: 7.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-W6K .hero-utT .auto-group-naab-xfh .explorebtn-Utw {
+  margin-right: 9.2rem;
+  width: 34.2rem;
+  height: 100%;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.7333333333;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff7a00;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.home-page-W6K .hero-utT .auto-group-naab-xfh .seecarsbtn-k5m {
+  width: 34.2rem;
+  height: 100%;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.7333333333;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.4rem #ff7a00;
+  box-sizing: border-box;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.home-page-W6K .aboutus-6oq {
+  box-sizing: border-box;
+  padding: 15rem 11rem 15rem 0rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #f6f6f6;
+  flex-shrink: 0;
+}
+.home-page-W6K .aboutus-6oq .rectangle-8-DtT {
+  margin-right: 5rem;
+  width: 97.2rem;
+  height: 82.6rem;
+  background-color: #d9d9d9;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-8-bg-CQf.png');
+  flex-shrink: 0;
+}
+.home-page-W6K .aboutus-6oq .auto-group-pkmm-YQw {
+  margin-bottom: 3.4rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-page-W6K .aboutus-6oq .auto-group-pkmm-YQw .about-us-3sV {
+  margin-bottom: 2.5rem;
+  font-size: 6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #ff7a00;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-W6K .aboutus-6oq .auto-group-pkmm-YQw .lorem-ipsum-dolor-sit-amet-consectetur-adipis-cing-elit-ornare-vestibulum-diam-sit-adipis-cing-elit-adipis-cing-elit-acX {
+  margin-bottom: 9.1rem;
+  max-width: 75.8rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-page-W6K .aboutus-6oq .auto-group-pkmm-YQw .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-egestas-ultrices-scelerisque-urna-sed-man-proin-lacinia-posuere-facilisis-ut-nullam-ipsum-at-enim-ut-imperdiet-eu-sodales-eros-nibh-elementum-eget-integer-dolor-urna-egestas-sit-donec-neque-mi-elit-diam-praesent-mi-blandit-uices-vel-amet-sapien-ac-tortor-vel-ut-pharetra-celerisqd-sklois-kias-rabs-raffead-book-DvP {
+  margin-bottom: 7.6rem;
+  max-width: 78.8rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-page-W6K .aboutus-6oq .auto-group-pkmm-YQw .explorebtn-Bkj {
+  width: 34.2rem;
+  height: 7.8rem;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.7333333333;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff7a00;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.home-page-W6K .auto-group-gsgf-euD {
+  width: 193.3rem;
+  height: 373.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-page-W6K .auto-group-gsgf-euD .futer-XCK {
+  width: 193.3rem;
+  height: 163.1181rem;
+  position: absolute;
+  left: 0;
+  top: 210.5819rem;
+}
+.home-page-W6K .auto-group-gsgf-euD .futer-XCK .rectangle-31-3Af {
+  width: 193.3rem;
+  height: 35.1rem;
+  position: absolute;
+  left: 0;
+  top: 128.0181rem;
+  background-color: #000000;
+}
+.home-page-W6K .auto-group-gsgf-euD .futer-XCK .photo-inc-2019-we-love-our-users-LvT {
+  width: 42.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 8.7677rem;
+  top: 154.4181rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: -0.036rem;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-W6K .auto-group-gsgf-euD .futer-XCK .follow-us--A8o {
+  width: 11.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 137.9109rem;
+  top: 154.4181rem;
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: -0.036rem;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-W6K .auto-group-gsgf-euD .futer-XCK .community-eZm {
+  width: 14.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 118.8078rem;
+  top: 135.9181rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1;
+  letter-spacing: -0.036rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-W6K .auto-group-gsgf-euD .futer-XCK .featured-artists-the-portal-live-events-MUB {
+  width: 15.2rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 118.8078rem;
+  top: 139.9181rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2;
+  letter-spacing: -0.03rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.home-page-W6K .auto-group-gsgf-euD .futer-XCK .company-367 {
+  width: 12.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 141.0574rem;
+  top: 135.9181rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1;
+  letter-spacing: -0.036rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-W6K .auto-group-gsgf-euD .futer-XCK .about-us-contact-us-history-Lqu {
+  width: 10.7rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 141.0574rem;
+  top: 139.9181rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2;
+  letter-spacing: -0.03rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.home-page-W6K .auto-group-gsgf-euD .futer-XCK .logo-RsM {
+  width: 22.6996rem;
+  height: 141.4181rem;
+  position: absolute;
+  left: 8.7677rem;
+  top: 0;
+}
+.home-page-W6K .auto-group-gsgf-euD .futer-XCK .logo-RsM .auto-group-fjy5-XfV {
+  margin-bottom: 133.6412rem;
+  width: 5.086rem;
+  height: 2.9769rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-page-W6K .auto-group-gsgf-euD .futer-XCK .logo-RsM .ktmotors-G7H {
+  margin-left: 7.0996rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-W6K .auto-group-gsgf-euD .futer-XCK .button-mpj {
+  width: 13.088rem;
+  height: 4rem;
+  position: absolute;
+  left: 167.9382rem;
+  top: 135.9181rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.0225rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #ff7a00;
+  border-radius: 0.6rem;
+}
+.home-page-W6K .auto-group-gsgf-euD .futer-XCK .button-1DH {
+  width: 13.088rem;
+  height: 4rem;
+  position: absolute;
+  left: 167.9382rem;
+  top: 141.5181rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.0225rem;
+  color: #ff7a00;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #ff7a00;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+}
+.home-page-W6K .auto-group-gsgf-euD .futer-XCK .rectangle-3fm {
+  width: 173.1646rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 8.7677rem;
+  top: 150.1181rem;
+  background-color: #ff7a00;
+}
+.home-page-W6K .auto-group-gsgf-euD .futer-XCK .group-7-nNT {
+  width: 4.6311rem;
+  height: 145.5999rem;
+  position: absolute;
+  left: 155.9576rem;
+  top: 12.5182rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.home-page-W6K .auto-group-gsgf-euD .futer-XCK .group-7-nNT .vector-Jbh {
+  margin-bottom: 137.4887rem;
+  width: 4.6311rem;
+  height: 3.5112rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-W6K .auto-group-gsgf-euD .futer-XCK .group-7-nNT .ellipse-4-3pB {
+  width: 4.6311rem;
+  height: 4.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-W6K .auto-group-gsgf-euD .futer-XCK .group-9-bao {
+  width: 4.6311rem;
+  height: 145.5999rem;
+  position: absolute;
+  left: 170.2537rem;
+  top: 12.5182rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.home-page-W6K .auto-group-gsgf-euD .futer-XCK .group-9-bao .vector-jS7 {
+  margin-bottom: 137.4887rem;
+  width: 4.6311rem;
+  height: 3.5112rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-W6K .auto-group-gsgf-euD .futer-XCK .group-9-bao .ellipse-2-UuV {
+  width: 4.6311rem;
+  height: 4.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-W6K .auto-group-gsgf-euD .futer-XCK .group-8-dXV {
+  width: 4.6311rem;
+  height: 145.5999rem;
+  position: absolute;
+  left: 163.1057rem;
+  top: 12.5182rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.home-page-W6K .auto-group-gsgf-euD .futer-XCK .group-8-dXV .vector-Zg3 {
+  margin-bottom: 137.4887rem;
+  width: 4.6311rem;
+  height: 3.5112rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-W6K .auto-group-gsgf-euD .futer-XCK .group-8-dXV .ellipse-3-uju {
+  width: 4.6311rem;
+  height: 4.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-W6K .auto-group-gsgf-euD .futer-XCK .group-10-CU7 {
+  width: 4.6311rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 177.4018rem;
+  top: 153.5181rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-page-W6K .auto-group-gsgf-euD .futer-XCK .body-d-8cf {
+  box-sizing: border-box;
+  padding: 9.3rem 10rem 9.2rem 10rem;
+  width: 192rem;
+  height: 90.6rem;
+  position: absolute;
+  left: 0;
+  top: 33.9181rem;
+  overflow: hidden;
+  background-color: #f6f6f6;
+}
+.home-page-W6K .auto-group-gsgf-euD .futer-XCK .body-d-8cf .auto-group-pbfv-XoD {
+  margin-bottom: 3.4rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.home-page-W6K .auto-group-gsgf-euD .futer-XCK .body-d-8cf .auto-group-pbfv-XoD .rectangle-27-pGX {
+  margin-right: 6.8rem;
+  width: 82.6rem;
+  height: 43.1rem;
+  background-color: #d9d9d9;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-27-bg.png');
+  flex-shrink: 0;
+}
+.home-page-W6K .auto-group-gsgf-euD .futer-XCK .body-d-8cf .auto-group-pbfv-XoD .rectangle-28-qDZ {
+  width: 82.6rem;
+  height: 43.1rem;
+  background-color: #d9d9d9;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-28-bg.png');
+  flex-shrink: 0;
+}
+.home-page-W6K .auto-group-gsgf-euD .futer-XCK .body-d-8cf .auto-group-culb-AFq {
+  margin: 0rem 0.2rem 8rem 0rem;
+  width: calc(100% - 0.2rem);
+  display: flex;
+  align-items: center;
+}
+.home-page-W6K .auto-group-gsgf-euD .futer-XCK .body-d-8cf .auto-group-culb-AFq .group-gEB {
+  margin: 0.6rem 6.8rem 0rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-page-W6K .auto-group-gsgf-euD .futer-XCK .body-d-8cf .auto-group-culb-AFq .group-gEB .sed-ut-perspiciatis-DV1 {
+  margin-bottom: 2.4rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.036rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-W6K .auto-group-gsgf-euD .futer-XCK .body-d-8cf .auto-group-culb-AFq .group-gEB .nemo-enim-ipsam-voluptatem-quia-voluptas-sit-aspernatur-aut-odit-aut-fugit-sed-quia-conseq-uuntur-magni-dolores-eos-qui-ratione-voluptatem-se-5GK {
+  max-width: 82.6rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  letter-spacing: -0.027rem;
+  color: rgba(0, 0, 0, 0.8000000119);
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-page-W6K .auto-group-gsgf-euD .futer-XCK .body-d-8cf .auto-group-culb-AFq .auto-group-at7d-Jum {
+  margin-bottom: 0.6rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-page-W6K .auto-group-gsgf-euD .futer-XCK .body-d-8cf .auto-group-culb-AFq .auto-group-at7d-Jum .lorem-ipsum-dolor-RUb {
+  margin-bottom: 2.4rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.036rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-W6K .auto-group-gsgf-euD .futer-XCK .body-d-8cf .auto-group-culb-AFq .auto-group-at7d-Jum .amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magn-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-ullamco-laboris-nisi-rpo {
+  max-width: 82.4rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  letter-spacing: -0.027rem;
+  color: rgba(0, 0, 0, 0.8000000119);
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-page-W6K .auto-group-gsgf-euD .futer-XCK .body-d-8cf .auto-group-rwyb-5hZ {
+  margin-right: 66.9469rem;
+  width: calc(100% - 66.9469rem);
+  height: 5rem;
+  display: flex;
+  align-items: center;
+}
+.home-page-W6K .auto-group-gsgf-euD .futer-XCK .body-d-8cf .auto-group-rwyb-5hZ .group-4-1LK {
+  margin-right: 73.7469rem;
+  width: 15.6531rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.027rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #ff7a00;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.home-page-W6K .auto-group-gsgf-euD .futer-XCK .body-d-8cf .auto-group-rwyb-5hZ .group-5-Gn3 {
+  width: 15.6531rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.027rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #ff7a00;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.home-page-W6K .auto-group-gsgf-euD .latestcar-8pF {
+  width: 192rem;
+  height: 190.1806rem;
+  position: absolute;
+  left: 0;
+  top: 54.3194rem;
+}
+.home-page-W6K .auto-group-gsgf-euD .latestcar-8pF .rectangle-9-4T1 {
+  width: 192rem;
+  height: 131.2rem;
+  position: absolute;
+  left: 0;
+  top: 58.9806rem;
+  background-color: #e8e8e8;
+}
+.home-page-W6K .auto-group-gsgf-euD .latestcar-8pF .lorem-ipsum-dolor-sit-amet-consectetur-adipis-cing-elit-ornare-vestibulum-diam-sit-adipis-cing-elit-adipis-cing-elit-Q15 {
+  width: 75.8rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 10rem;
+  top: 81.3806rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.home-page-W6K .auto-group-gsgf-euD .latestcar-8pF .our-latest-cars-8bH {
+  width: 56.9rem;
+  height: 9.6rem;
+  position: absolute;
+  left: 10rem;
+  top: 69.8806rem;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-W6K .auto-group-gsgf-euD .latestcar-8pF .group-1-Dsd {
+  box-sizing: border-box;
+  padding-bottom: 3.9rem;
+  width: 54.9rem;
+  height: 76.2rem;
+  position: absolute;
+  left: 10rem;
+  top: 98.9806rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #555353;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-10-bg.png');
+}
+.home-page-W6K .auto-group-gsgf-euD .latestcar-8pF .group-1-Dsd .auto-group-uumq-8Uo {
+  margin-bottom: 50.3rem;
+  box-sizing: border-box;
+  padding: 2.1rem 1.7rem 3rem 1.7rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  backdrop-filter: blur(1.55rem);
+  background-color: rgba(0, 0, 0, 0.4699999988);
+  flex-shrink: 0;
+}
+.home-page-W6K .auto-group-gsgf-euD .latestcar-8pF .group-1-Dsd .auto-group-uumq-8Uo .luxgrious-auto-mobile-SVV {
+  margin-bottom: 0.7rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-W6K .auto-group-gsgf-euD .latestcar-8pF .group-1-Dsd .auto-group-uumq-8Uo .lorem-ipsum-dolor-sit-amet-consectetur-adipis-cing-elit-ornare-vestibulum-diam-Zq1 {
+  max-width: 46.6rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-page-W6K .auto-group-gsgf-euD .latestcar-8pF .group-1-Dsd .auto-group-yezk-1wu {
+  margin: 0rem 7.2rem 0rem 7.3rem;
+  width: calc(100% - 14.5rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-W6K .auto-group-gsgf-euD .latestcar-8pF .group-1-Dsd .auto-group-yezk-1wu .hot-sells-jsu {
+  margin-right: 1.6rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #ff7a00;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-W6K .auto-group-gsgf-euD .latestcar-8pF .group-1-Dsd .auto-group-yezk-1wu .rectangle-17-U4o {
+  margin-top: 0.2rem;
+  width: 19.8rem;
+  height: 0.6rem;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.home-page-W6K .auto-group-gsgf-euD .latestcar-8pF .group-3-m3u {
+  box-sizing: border-box;
+  padding-bottom: 3.9rem;
+  width: 54.9rem;
+  height: 76.2rem;
+  position: absolute;
+  left: 127.1rem;
+  top: 98.9806rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #555353;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-12-bg.png');
+}
+.home-page-W6K .auto-group-gsgf-euD .latestcar-8pF .group-3-m3u .auto-group-y6br-eNb {
+  margin-bottom: 50.3rem;
+  box-sizing: border-box;
+  padding: 2.1rem 1.7rem 3rem 1.7rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  backdrop-filter: blur(1.55rem);
+  background-color: rgba(0, 0, 0, 0.4699999988);
+  flex-shrink: 0;
+}
+.home-page-W6K .auto-group-gsgf-euD .latestcar-8pF .group-3-m3u .auto-group-y6br-eNb .luxgrious-auto-mobile-XxB {
+  margin-bottom: 0.7rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-W6K .auto-group-gsgf-euD .latestcar-8pF .group-3-m3u .auto-group-y6br-eNb .lorem-ipsum-dolor-sit-amet-consectetur-adipis-cing-elit-ornare-vestibulum-diam-qCB {
+  max-width: 46.6rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home-page-W6K .auto-group-gsgf-euD .latestcar-8pF .group-3-m3u .auto-group-ven3-qLb {
+  margin: 0rem 7.2rem 0rem 7.3rem;
+  width: calc(100% - 14.5rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-W6K .auto-group-gsgf-euD .latestcar-8pF .group-3-m3u .auto-group-ven3-qLb .hot-sells-vcw {
+  margin-right: 1.6rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #ff7a00;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-W6K .auto-group-gsgf-euD .latestcar-8pF .group-3-m3u .auto-group-ven3-qLb .rectangle-19-e39 {
+  margin-top: 0.2rem;
+  width: 19.8rem;
+  height: 0.6rem;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.home-page-W6K .auto-group-gsgf-euD .latestcar-8pF .group-2-Lgf {
+  width: 55.3rem;
+  height: 76.2rem;
+  position: absolute;
+  left: 68.2rem;
+  top: 98.9806rem;
+}
+.home-page-W6K .auto-group-gsgf-euD .latestcar-8pF .group-2-Lgf .rectangle-11-G4X {
+  width: 55rem;
+  height: 76.2rem;
+  position: absolute;
+  left: 0.3rem;
+  top: 0;
+  background-color: #555353;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-11-bg.png');
+}
+.home-page-W6K .auto-group-gsgf-euD .latestcar-8pF .group-2-Lgf .rectangle-14-BSP {
+  width: 54.9rem;
+  height: 16.6rem;
+  position: absolute;
+  left: 0.3rem;
+  top: 0;
+  backdrop-filter: blur(1.55rem);
+  background-color: rgba(0, 0, 0, 0.4699999988);
+}
+.home-page-W6K .auto-group-gsgf-euD .latestcar-8pF .group-2-Lgf .luxgrious-auto-mobile-hfd {
+  width: 40.8rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 2rem;
+  top: 2.1rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-W6K .auto-group-gsgf-euD .latestcar-8pF .group-2-Lgf .lorem-ipsum-dolor-sit-amet-consectetur-adipis-cing-elit-ornare-vestibulum-diam-zud {
+  width: 46.6rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 2rem;
+  top: 8.2rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.home-page-W6K .auto-group-gsgf-euD .latestcar-8pF .group-2-Lgf .rectangle-16-gnT {
+  width: 55.3rem;
+  height: 59.6rem;
+  position: absolute;
+  left: 0;
+  top: 16.6rem;
+  background: linear-gradient(360deg, rgba(0, 0, 0, 0.3300000131) 0%, rgba(0, 0, 0, 0.3300000131) 76.74%);
+}
+.home-page-W6K .auto-group-gsgf-euD .latestcar-8pF .group-2-Lgf .rectangle-18-ASj {
+  width: 19.8rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 27.2rem;
+  top: 69.4rem;
+  background-color: #d9d9d9;
+}
+.home-page-W6K .auto-group-gsgf-euD .latestcar-8pF .group-2-Lgf .hot-sells-gvs {
+  width: 19rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 6.6rem;
+  top: 66.9rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #ff7a00;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-W6K .auto-group-gsgf-euD .latestcar-8pF .slder-Bsd {
+  width: 6rem;
+  height: 92.4806rem;
+  position: absolute;
+  left: 176rem;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.home-page-W6K .auto-group-gsgf-euD .latestcar-8pF .slder-Bsd .vector-Kiw {
+  margin: 0rem 0rem 85.345rem 0rem;
+  width: 1.8rem;
+  height: 1.2355rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-W6K .auto-group-gsgf-euD .latestcar-8pF .slder-Bsd .rectangle-24-SoZ {
+  width: 100%;
+  height: 5.9rem;
+  background-color: #ff7a00;
+  border-radius: 0.7rem;
+  flex-shrink: 0;
+}
+.home-page-W6K .auto-group-gsgf-euD .latestcar-8pF .slider-C23 {
+  width: 6rem;
+  height: 92.4664rem;
+  position: absolute;
+  left: 166rem;
+  top: 0.0142rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.home-page-W6K .auto-group-gsgf-euD .latestcar-8pF .slider-C23 .vector-L8F {
+  margin: 0rem 0rem 85.331rem 0rem;
+  width: 1.8rem;
+  height: 1.2355rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-W6K .auto-group-gsgf-euD .latestcar-8pF .slider-C23 .rectangle-23-G1u {
+  width: 100%;
+  height: 5.9rem;
+  border: solid 0.3rem #ff7a00;
+  box-sizing: border-box;
+  border-radius: 0.7rem;
+  flex-shrink: 0;
+}
+.home-page-W6K .auto-group-gsgf-euD .professional-services-zTh {
+  box-sizing: border-box;
+  padding: 83.8rem 11.1rem 9.6rem 11.1rem;
+  width: 193.1rem;
+  height: 113.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+}
+.home-page-W6K .auto-group-gsgf-euD .professional-services-zTh .we-are-provide-professional-car-services-6Wj {
+  max-width: 134.1rem;
+  font-size: 8.2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.home-page-W6K .auto-group-gsgf-euD .professional-services-zTh .we-are-provide-professional-car-services-6Wj .we-are-provide-professional-car-services-6Wj-sub-0 {
+}
+.home-page-W6K .auto-group-gsgf-euD .professional-services-zTh .we-are-provide-professional-car-services-6Wj .we-are-provide-professional-car-services-6Wj-sub-1 {
+  font-size: 8.2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ff7a00;
+  font-family: Inter, 'Source Sans Pro';
+}

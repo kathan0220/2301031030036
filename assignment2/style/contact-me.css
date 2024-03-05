@@ -1,0 +1,434 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 300.8rem;
+}.contact-me-gZu {
+  width: 100%;
+  height: 242.1rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.contact-me-gZu .frame-2-yZ1 {
+  width: 10rem;
+  height: 10rem;
+  position: absolute;
+  left: 177.5rem;
+  top: 129.1rem;
+  overflow: hidden;
+}
+.contact-me-gZu .about-us-5rw {
+  width: 300.8rem;
+  height: 240.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.contact-me-gZu .about-us-5rw .aboutus-crs {
+  box-sizing: border-box;
+  padding: 17.718rem 18.836rem 17.718rem 0rem;
+  width: 283.8rem;
+  height: 133rem;
+  position: absolute;
+  left: 1.2rem;
+  top: 50.3rem;
+  display: flex;
+  align-items: center;
+  background-color: #f6f6f6;
+}
+.contact-me-gZu .about-us-5rw .aboutus-crs .rectangle-8-tZV {
+  margin-right: 7.3906rem;
+  width: 143.6738rem;
+  height: 97.5648rem;
+  background-color: #d9d9d9;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-8-bg-x5d.png');
+  flex-shrink: 0;
+}
+.contact-me-gZu .about-us-5rw .aboutus-crs .auto-group-gsmq-PFM {
+  margin-bottom: 4.016rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.contact-me-gZu .about-us-5rw .aboutus-crs .auto-group-gsmq-PFM .contact-us-7BM {
+  margin-bottom: 4.5835rem;
+  font-size: 6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #ff7a00;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-me-gZu .about-us-5rw .aboutus-crs .auto-group-gsmq-PFM .lorem-ipsum-dolor-sit-amet-consectetur-adipis-cing-elit-ornare-vestibulum-diam-sit-adipis-cing-elit-adipis-cing-elit-oK5 {
+  margin-bottom: 12.0531rem;
+  max-width: 113.9rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.contact-me-gZu .about-us-5rw .aboutus-crs .auto-group-gsmq-PFM .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-egestas-ultrices-scelerisque-urna-sed-man-proin-lacinia-posuere-facilisis-ut-nullam-ipsum-at-enim-ut-imperdiet-eu-sodales-eros-nibh-elementum-eget-integer-dolor-urna-egestas-sit-donec-neque-mi-elit-diam-praesent-mi-blandit-uices-vel-amet-sapien-ac-tortor-vel-ut-pharetra-celerisqd-sklois-kias-rabs-raffead-book-rYF {
+  margin-bottom: 19.9991rem;
+  max-width: 112.6rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.contact-me-gZu .about-us-5rw .aboutus-crs .auto-group-gsmq-PFM .explorebtn-9fm {
+  width: 50.5519rem;
+  height: 9.2131rem;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.7333333333;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff7a00;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.contact-me-gZu .about-us-5rw .futer-mx3 {
+  width: 305.6rem;
+  height: 134.9874rem;
+  position: absolute;
+  left: 0;
+  top: 88.5126rem;
+}
+.contact-me-gZu .about-us-5rw .futer-mx3 .rectangle-31-hqh {
+  width: 305.6rem;
+  height: 26.4rem;
+  position: absolute;
+  left: 0;
+  top: 108.5874rem;
+  background-color: #000000;
+}
+.contact-me-gZu .about-us-5rw .futer-mx3 .photo-inc-2019-we-love-our-users-SYP {
+  width: 42.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 10.1969rem;
+  top: 128.4483rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: -0.036rem;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.contact-me-gZu .about-us-5rw .futer-mx3 .community-J4o {
+  width: 14.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 174.1139rem;
+  top: 114.5437rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1;
+  letter-spacing: -0.036rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.contact-me-gZu .about-us-5rw .futer-mx3 .featured-artists-the-portal-live-events-bZh {
+  width: 15.2rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 174.1139rem;
+  top: 117.5501rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2;
+  letter-spacing: -0.03rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.contact-me-gZu .about-us-5rw .futer-mx3 .company-fpT {
+  width: 12.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 207.2572rem;
+  top: 114.5437rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1;
+  letter-spacing: -0.036rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.contact-me-gZu .about-us-5rw .futer-mx3 .about-us-contact-us-history-y4T {
+  width: 10.7rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 207.2572rem;
+  top: 117.5501rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2;
+  letter-spacing: -0.03rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.contact-me-gZu .about-us-5rw .futer-mx3 .logo-Syd {
+  width: 25.565rem;
+  height: 119.8698rem;
+  position: absolute;
+  left: 10.8076rem;
+  top: 0;
+}
+.contact-me-gZu .about-us-5rw .futer-mx3 .logo-Syd .auto-group-t2o9-BRR {
+  margin-bottom: 113.1071rem;
+  width: 8.0302rem;
+  height: 1.9628rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.contact-me-gZu .about-us-5rw .futer-mx3 .logo-Syd .ktmotors-Ttj {
+  margin-left: 9.965rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.contact-me-gZu .about-us-5rw .futer-mx3 .rectangle-P1h {
+  width: 257.9478rem;
+  height: 0.2255rem;
+  position: absolute;
+  left: 10.1969rem;
+  top: 125.2165rem;
+  background-color: #ff7a00;
+}
+.contact-me-gZu .about-us-5rw .navber-i3y {
+  box-sizing: border-box;
+  padding: 1.554rem 14.901rem 1.554rem 7.255rem;
+  width: 286.1rem;
+  height: 14.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.6rem 0.9rem rgba(0, 0, 0, 0.0900000036);
+  background-color: #ffffff;
+}
+.contact-me-gZu .about-us-5rw .navber-i3y .logo-1Ys {
+  margin: 0rem 81.925rem 3.346rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.contact-me-gZu .about-us-5rw .navber-i3y .logo-1Ys .auto-group-ixe7-Yoh {
+  margin-bottom: 2.2228rem;
+  width: 3.6652rem;
+  height: 1.1227rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.contact-me-gZu .about-us-5rw .navber-i3y .logo-1Ys .ktmotors-EwR {
+  margin-left: 18.1538rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-me-gZu .about-us-5rw .navber-i3y .frame-1-AKH {
+  margin: 3.946rem 56.113rem 3.946rem 0rem;
+  height: calc(100% - 7.891rem);
+  display: flex;
+  column-gap: 7.5rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.contact-me-gZu .about-us-5rw .navber-i3y .frame-1-AKH .home-4Qf {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-me-gZu .about-us-5rw .navber-i3y .frame-1-AKH .abut-us-MPm {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-me-gZu .about-us-5rw .navber-i3y .frame-1-AKH .cars-hCj {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-me-gZu .about-us-5rw .navber-i3y .frame-1-AKH .services-EiT {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-me-gZu .about-us-5rw .navber-i3y .btn-yvw {
+  margin: 2.5455rem 0;
+  width: 37.2526rem;
+  height: calc(100% - 5.091rem);
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff7a00;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.contact-me-gZu .navber-Pjm {
+  width: 397.5247rem;
+  height: 28.5373rem;
+  position: absolute;
+  left: 410.5753rem;
+  top: 44.1627rem;
+}
+.contact-me-gZu .navber-Pjm .rectangle-5-Xb5 {
+  width: 192rem;
+  height: 14.6rem;
+  position: absolute;
+  left: 205.5247rem;
+  top: 13.9373rem;
+  box-shadow: 0 0.6rem 0.9rem rgba(0, 0, 0, 0.0900000036);
+  background-color: #ffffff;
+}
+.contact-me-gZu .navber-Pjm .logo-3ZR {
+  width: 238.1766rem;
+  height: 23.6373rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.contact-me-gZu .navber-Pjm .logo-3ZR .auto-group-1uyf-baw {
+  margin-bottom: 16.7244rem;
+  width: 3.3128rem;
+  height: 2.1129rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.contact-me-gZu .navber-Pjm .logo-3ZR .ktmotors-KWw {
+  margin-left: 222.5766rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.contact-me-gZu .navber-Pjm .frame-1-FQb {
+  width: 54.9rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 288.0247rem;
+  top: 19.4373rem;
+  display: flex;
+  column-gap: 7.5rem;
+  align-items: center;
+}
+.contact-me-gZu .navber-Pjm .frame-1-FQb .home-aBy {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-me-gZu .navber-Pjm .frame-1-FQb .abut-us-X7D {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-me-gZu .navber-Pjm .frame-1-FQb .cars-sB5 {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-me-gZu .navber-Pjm .frame-1-FQb .services-cuM {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-me-gZu .navber-Pjm .btn-XWX {
+  width: 25rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 362.5247rem;
+  top: 18.0373rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff7a00;
+  border-radius: 1rem;
+}
